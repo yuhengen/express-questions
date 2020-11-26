@@ -25,12 +25,6 @@ Please consult the `readme.md` file for in each folder for the question.
 ## To update new questions
 Type in the following to get new questions
 
-<<<<<<< HEAD
-1. git fetch upstream/publish
-
-2. git merge publish
-=======
 1. git fetch upstream
 
 2. git merge upstream/publish --allow-unrelated-histories
->>>>>>> upstream/publish
